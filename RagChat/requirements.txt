@@ -22,3 +22,6 @@ pypdf
 
 #vector database
 faiss-cpu
+rank_bm25
+pymupdf
+sentence-transformers
