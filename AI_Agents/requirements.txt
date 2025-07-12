@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+langchain-openai
+langchain-community
+langchain-core
+requests
+duckduckgo-search
+python-dotenv
+arxiv
