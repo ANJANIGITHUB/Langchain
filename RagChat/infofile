@@ -1,1 +1,5 @@
 This contains implementations of RAG Chatbot
+#Install below libraries for multimodel RAG with UNSTRUCTURED.IO
+
+# Requirements:
+!pip install langchain unstructured[all-docs] pydantic lxml openai chromadb tiktoken pytesseract
